@@ -6,5 +6,5 @@ export default function App() {
     <ProductCard key={product.id} product={product} />
   ));
 
-  return <div className="product-list">{productCards}</div>;
+  return <div className="App">{productCards}</div>;
 }

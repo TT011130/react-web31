@@ -1,0 +1,84 @@
+{
+    "productListing": {
+      "filters": [
+        {
+          "id": 1,
+          "heading": "Packages",
+          "submenu": [
+            { "id": 1, "name": "Subscriptions" },
+            { "id": 2, "name": "Value Packs" }
+          ]
+        },
+        {
+          "id": 2,
+          "heading": "Categories",
+          "submenu": [
+            { "id": 1, "name": "Juices" },
+            { "id": 2, "name": "Cleanses" },
+            { "id": 3, "name": "Almond Milk" },
+            { "id": 4, "name": "protein MilkShake" }
+          ]
+        },
+        {
+          "id": 3,
+          "heading": "Size",
+          "submenu": [
+            { "id": 1, "name": "200ml" },
+            { "id": 2, "name": "250ml" },
+            { "id": 3, "name": "410ml" }
+          ]
+        },
+        {
+          "id": 4,
+          "heading": "Packs",
+          "submenu": [
+            { "id": 1, "name": "pack of 2" },
+            { "id": 2, "name": "pack of 4" },
+            { "id": 3, "name": "pack of 6" },
+            { "id": 4, "name": "pack of 8" },
+            { "id": 5, "name": "pack of 10" },
+            { "id": 6, "name": "pack of 12" },
+            { "id": 7, "name": "pack of 14" },
+            { "id": 8, "name": "pack of 16" },
+            { "id": 9, "name": "pack of 18" },
+            { "id": 10, "name": "pack of 20" },
+            { "id": 11, "name": "pack of 24" },
+            { "id": 12, "name": "pack of 30" },
+            { "id": 13, "name": "pack of 36" }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "id": 1,
+          "description": "Valencia Orange Every athlete’s go to natural energy drink; Coconut Water is a complete win-win for your everyday rehydration needs. #iaminlovewiththecoco!",
+          "category": "juices",
+          "img": "https://static.wixstatic.com/media/2c0034_5b8e230643ee4b6cbb1ae55088b40d50~mv2.png",
+          "heading": "Valencia Orange",
+          "size": "250ml",
+          "packs": 0,
+          "price": 80
+        },
+        {
+          "id": 2,
+          "description": "Valencia Orange Every athlete’s go to natural energy drink; Coconut Water is a complete win-win for your everyday rehydration needs. #iaminlovewiththecoco!",
+          "category": "juices",
+          "img": "https://static.wixstatic.com/media/2c0034_e8d3fce1719f402797ddaaa555c094e4~mv2.png",
+          "heading": "Valencia Orange",
+          "size": "1litre",
+          "packs": 0,
+          "price": 240
+        },
+        {
+          "id": 3,
+          "description": "Trim Every athlete’s go to natural energy drink; Coconut Water is a complete win-win for your everyday rehydration needs. #iaminlovewiththecoco!",
+          "category": "juices",
+          "img": "https://static.wixstatic.com/media/2c0034_7534300a0eb04f75b0170b7eb8da71aa~mv2.png",
+          "heading": "Trim",
+          "size": "250ml",
+          "packs": 0,
+          "price": 120
+        }
+      ]
+    }
+  }
